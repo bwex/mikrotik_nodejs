@@ -1,0 +1,11 @@
+{
+  "name": "mikrotik",
+  "version": "1.0.0",
+  "description": "this is a javascript API for mikrotik. want to create nodejs application that will connect to a mikrotik",
+  "main": "mikrotikConnect.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "chibwe kapambwe",
+  "license": "ISC"
+}
